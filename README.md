@@ -1,2 +1,2 @@
 # androidlaba1
-![srcreenshot](laba2.png)
+![srcreenshot](laba1.png)
